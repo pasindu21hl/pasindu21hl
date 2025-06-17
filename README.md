@@ -1,4 +1,4 @@
-# 🛡️ Hi there, I'm Pasindu Heshani! 👋
+# 🛡️ Hi there, I'm Pasindu Heshan! 👋
 
 <div align="center">
 
