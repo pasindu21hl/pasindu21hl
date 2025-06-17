@@ -1,159 +1,195 @@
-# 🚀 Pasindu Heshani | Cyber Security Specialist
+# 🛡️ Hi there, I'm Pasindu Heshani! 👋
 
 <div align="center">
-  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+My+Cyber+Fortress;Network+Defense+Specialist;Cloud+Security+Architect;Threat+Hunter+Extraordinaire)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=BSc+Computer+Networks+%26+Cyber+Security;Digital+Fortress+Builder;Ethical+Hacker+in+Training;Security+Researcher" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-## 🔐 About Me  
-<img align="right" src="https://github.com/pasindu21hl/pasindu21hl/assets/162978898/0e0e0b4a-9d3c-4e8d-8f5e-7d0e4f9b0a6e" width="300">
+## 🔐 About Me
+
+<img align="right" alt="Cyber Security" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 🎓 **BSc Honours in Computer Networks & Cyber Security**  
-🏫 Kaatsu International University | Colombo, Sri Lanka  
-🔒 **Security Specialist** with focus on network defense and threat mitigation  
-🔭 **Currently researching:** AI-powered threat detection systems  
-⚡ **Fun fact:** I reverse-engineer malware for breakfast  
+🏫 Kaatsu International University  
+🛡️ **Security-First Mindset** with strong foundation in networking  
+🔍 **Mission:** Securing digital infrastructure while advancing cybersecurity knowledge  
 
-**Mission:** Building resilient systems that withstand evolving cyber threats while advancing security research in critical infrastructure protection.
+- 🔒 Mastering Cyber Security concepts and practical implementations
+- 🌐 Deepening understanding of network architectures and protocols
+- 📚 Continuously learning cutting-edge security methodologies
+- 🤝 Open to cybersecurity research collaborations
+- ⚡ Fun Fact: I enjoy analyzing network traffic patterns for fun
 
 <br clear="right"/>
 
-## 🛠️ Technical Arsenal  
-
-### 🔥 Core Competencies  
 <div align="center">
-  
-```mermaid
-pie
-    title Security Expertise Distribution
-    "Network Defense" : 35
-    "Cloud Security" : 25
-    "Threat Hunting" : 20
-    "Incident Response" : 15
-    "Cryptography" : 5
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🛡️ Security Arsenal
+
+<div align="center">
+
+### Core Skills
+![Networking](https://img.shields.io/badge/Network_Security-important?style=for-the-badge&logo=network&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-critical?style=for-the-badge&logo=shield-check&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-success?style=for-the-badge&logo=bug&logoColor=white)
+![Security Analysis](https://img.shields.io/badge/Security_Analysis-informational?style=for-the-badge&logo=magnifying-glass&logoColor=white)
+
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Security Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### Platforms
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
-### 🧰 Tool Proficiency  
 <div align="center">
-  
-| Network Security | Cloud Security | Penetration Testing | Security Frameworks |
-|------------------|----------------|---------------------|---------------------|
-| ![Wireshark](https://img.shields.io/badge/Wireshark-Expert-1679A7?logo=wireshark&style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS_Security-Advanced-FF9900?logo=amazonaws&style=for-the-badge) | ![Metasploit](https://img.shields.io/badge/Metasploit-Expert-2596CD?logo=metasploit&style=for-the-badge) | ![NIST](https://img.shields.io/badge/NIST_Framework-Professional-blue?style=for-the-badge) |
-| ![Nmap](https://img.shields.io/badge/Nmap-Expert-0E83CD?logo=nmap&style=for-the-badge) | ![Azure](https://img.shields.io/badge/Azure_Security-Intermediate-0078D4?logo=microsoftazure&style=for-the-badge) | ![BurpSuite](https://img.shields.io/badge/Burp_Suite-Advanced-FF6633?logo=burp-suite&style=for-the-badge) | ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-Advanced-red?style=for-the-badge) |
-| ![Firewalls](https://img.shields.io/badge/Firewalls-Expert-orange?style=for-the-badge) | ![GCP](https://img.shields.io/badge/GCP_Security-Beginner-4285F4?logo=googlecloud&style=for-the-badge) | ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Intermediate-000000?logo=owasp&style=for-the-badge) | ![ISO27001](https://img.shields.io/badge/ISO_27001-Knowledgeable-yellow?style=for-the-badge) |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/pasindu21hl">
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindu21hl&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+</a>
+<a href="https://github.com/pasindu21hl">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu21hl&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+</a>
+
+<a href="https://github.com/pasindu21hl">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu21hl&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</a>
 
 </div>
 
-## 🌟 Featured Projects  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### 🔐 Secure Network Architecture Framework  
-> Enterprise-grade security framework implementing zero-trust principles  
-**Tech Stack:** `Cisco ISE` `Palo Alto Firewalls` `SIEM Integration`  
-**Impact:** Reduced attack surface by 68% in test environment  
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pasindu21hl)
+## 🔍 Academic Focus Areas
 
 <div align="center">
-  
-```mermaid
-graph LR
-    A[User] --> B[Firewall]
-    B --> C[Authentication]
-    C --> D[Internal Network]
-    D --> E[Critical Assets]
-    style A fill:#4CAF50,stroke:#388E3C
-    style B fill:#FFC107,stroke:#FFA000
-    style C fill:#2196F3,stroke:#1976D2
-    style D fill:#9C27B0,stroke:#7B1FA2
-    style E fill:#F44336,stroke:#D32F2F
-```
+
+### 🌐 Network Security Fundamentals
+Studying secure network design, firewall configurations, and intrusion detection systems
+
+### 🔐 Cryptographic Systems
+Exploring encryption algorithms, PKI infrastructure, and cryptographic protocols
+
+### 🕵️ Cyber Threat Intelligence
+Learning threat modeling, vulnerability assessment, and attack vectors
+
+### 🛡️ Security Operations
+Understanding SOC operations, incident response, and digital forensics
+
+### ☁️ Cloud Security
+Researching security challenges in cloud computing environments
 
 </div>
 
-### ☁️ Cloud Security Automation  
-> Terraform modules for secure AWS/GCP deployment with compliance checks  
-**Features:** Auto-remediation • CIS Benchmark compliance • Cost optimization  
-**Status:** Protecting 15+ production workloads  
-[![Deploy](https://img.shields.io/badge/Deploy_Blueprint-623CE4?style=for-the-badge&logo=terraform)](https://github.com/pasindu21hl)
-
-### 🕵️‍♂️ Threat Intelligence Platform  
-> Real-time monitoring dashboard for emerging cyber threats  
-**Innovations:** Automated IOC collection • Threat scoring system • Integration with MITRE ATT&CK  
-**Accuracy:** 92% threat detection rate  
-
-## 📊 Cyber Metrics  
 <div align="center">
-  
-```mermaid
-gantt
-    title 2024 Security Roadmap
-    dateFormat  YYYY-MM-DD
-    axisFormat  %b
-    section Certifications
-    CISSP           :active, cert1, 2024-01-01, 2024-06-30
-    CCSP            : cert2, after cert1, 90d
-    section Projects
-    Open-source Toolkit :2024-03-01, 120d
-    Threat Research Paper :2024-05-01, 60d
-    section Skills
-    Cloud Security Mastery :2024-02-01, 180d
-    Threat Hunting Advanced :2024-04-15, 90d
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-| Statistic               | Value          | Progress |
-|-------------------------|----------------|----------|
-| **Vulnerabilities Found** | 47+            | ▰▰▰▰▰▰▰▰▰▱ 90% |
-| **Security Certs**       | 8              | ▰▰▰▰▰▱▱▱▱▱ 50% |
-| **Projects Secured**     | 23             | ▰▰▰▰▰▰▰▰▱▱ 80% |
-| **Research Papers**      | 3              | ▰▰▰▱▱▱▱▱▱▱ 30% |
+## 🎯 Security Roadmap 2024-2025
+
+<img align="right" alt="Security Goals" width="250" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
+
+- ✅ Master Networking Fundamentals
+- 🔄 Complete Advanced Security Certifications
+- 📚 Study Cloud Security Architecture
+- 🏆 Achieve CCNA Security Certification
+- 🔍 Specialize in Digital Forensics
+- 🌟 Contribute to Security Research
+- 🚀 Develop Security Tools Portfolio
+- 📱 Explore Mobile Security
+- ☁️ Master AWS/Azure Security
+
+<br clear="right"/>
+
+### Currently Learning
+- Network Defense Strategies
+- Cloud Security Best Practices
+- Security Information and Event Management (SIEM)
+- Threat Hunting Techniques
+- Python for Security Automation
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🔐 Target Certifications
+
+<div align="center">
+
+### 🏆 Core Certifications
+![CCNA](https://img.shields.io/badge/CCNA_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA_Security+-0078D4?style=for-the-badge&logo=comptia&logoColor=white)
+![CEH](https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-red?style=for-the-badge&logo=ec-council&logoColor=white)
+
+### 🌐 Specializations
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-important?style=for-the-badge&logo=cloud&logoColor=white)
+![Network Defense](https://img.shields.io/badge/Network_Defense-informational?style=for-the-badge&logo=shield&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-9cf?style=for-the-badge&logo=search&logoColor=black)
 
 </div>
 
-## 🏆 Certifications & Education  
 <div align="center">
-  
-| Certification | Status | Organization | Badge |
-|---------------|--------|--------------|-------|
-| **CCNA Security** | ✅ Completed | Cisco | ![CCNA](https://img.shields.io/badge/CCNA_Security-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge) |
-| **CEH v12** | ⏳ In Progress | EC-Council | ![CEH](https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-red?logo=ec-council&logoColor=white&style=for-the-badge) |
-| **AWS Security** | ✅ Completed | Amazon | ![AWS](https://img.shields.io/badge/AWS_Security-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge) |
-| **CompTIA Security+** | ✅ Completed | CompTIA | ![Security+](https://img.shields.io/badge/CompTIA_Security+-0078D4?logo=comptia&logoColor=white&style=for-the-badge) |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindu-heshan-6735b22b4/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pasindu.heshan.9041)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasindu21hl)
+
+### 🤝 Open For
+![Security Research](https://img.shields.io/badge/Security-Research-red?style=for-the-badge&logo=shield&logoColor=white)
+![Collaboration](https://img.shields.io/badge/Open_to-Collaborations-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)
+![Networking](https://img.shields.io/badge/Professional-Networking-blue?style=for-the-badge&logo=network&logoColor=white)
 
 </div>
 
-**Academic Excellence**  
-🏅 Dean's List - 3 consecutive semesters  
-📜 Published researcher in IEEE Security Symposium  
-🎓 Specialized in Cryptographic Systems & Network Defense
-
-## 🌐 Connect With Me  
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pasindu-heshan-6735b22b4/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow_Updates-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/pasindu.heshan.9041)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github)](https://github.com/pasindu21hl)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:contact@example.com)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 💡 Security Wisdom
+
+<div align="center">
+
+### 🔒 *"Security is not a product, but a process."* - Bruce Schneier
+
+**"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."** - Gene Spafford
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=pasindu21hl&color=00FF00&label=DIGITAL+VISITS&style=for-the-badge)
 
-**🔒 "In cybersecurity, the only constant is change. The defender must be right every time; the attacker only needs to be right once."**  
+![Profile Views](https://komarev.com/ghpvc/?username=pasindu21hl&color=red&style=for-the-badge&label=Profile+Views)
 
-[![GitHub Stars](https://img.shields.io/github/stars/pasindu21hl/pasindu21hl?style=social)](https://github.com/pasindu21hl/pasindu21hl)
-[![GitHub Followers](https://img.shields.io/github/followers/pasindu21hl?style=social)](https://github.com/pasindu21hl)
+**🛡️ Building cyber resilience through knowledge and innovation 🛡️**
 
-</div>
-
-<div align="center">
-  
-![Footer Banner](https://github.com/pasindu21hl/pasindu21hl/assets/162978898/7a4f4c8e-7a4d-4c4f-9e3f-9b4d3c6d7e2a)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+cybersecurity+profile!;Let's+build+a+more+secure+digital+future!;Stay+Vigilant+%26+Keep+Learning!" alt="Footer" />
 
 </div>
