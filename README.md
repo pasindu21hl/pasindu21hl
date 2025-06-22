@@ -63,6 +63,7 @@
 
 ## 📊 GitHub Stats
 
+<!--
 <div align="center">
 
 <a href="https://github.com/pasindu21hl">
@@ -76,12 +77,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu21hl&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </a>
 
-</div>
+</div> 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
+</div> 
+-->
 ## 🔍 Academic Focus Areas
 
 <div align="center">
